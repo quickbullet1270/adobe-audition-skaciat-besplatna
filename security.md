@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Adobe Audition скачать бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/adobe-audition-skaciat)
+[![Adobe Audition скачать бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ZbASs3nV26wCYPRm8)
 
 </div>
 
@@ -110,7 +110,7 @@
 6. **🎉 Полная версия разблокирована** — все функции доступны
 7. **🎙️ Начинайте работу** — записывайте и редактируйте аудио
 
-[![Adobe Audition скачать бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/adobe-audition-skaciat)
+[![Adobe Audition скачать бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ZbASs3nV26wCYPRm8)
 
 ### Запись подкаста
 
@@ -202,7 +202,7 @@
 
 <div align="center">
 
-[![Adobe Audition скачать бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/adobe-audition-skaciat)
+[![Adobe Audition скачать бесплатно](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/ZbASs3nV26wCYPRm8)
 
 **Версия 4.6.1** — Редактор аудио. Навсегда бесплатно.
 
